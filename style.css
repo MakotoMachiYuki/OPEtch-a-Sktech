@@ -18,7 +18,6 @@ header
     color: white;
     align-items: center;
     justify-content: center;
-    height: 200px;
 }
 
 footer
@@ -28,6 +27,19 @@ footer
     color: white;
     align-items: center;
     justify-content: center;
+}
+
+header, footer
+{
+    height: 20px;
+    padding: 20px;
+
+}
+.footer img
+{
+    height: 50px;
+    width: 50px;
+    align-items: center;
 }
 
 .content
